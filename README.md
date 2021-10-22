@@ -11,4 +11,3 @@ Here are some ideas to get you started:
 - I’m looking for help to learn about new technologies.
 - 📫 How to reach me: insta- @naveed_kk. Linkedin- @Naveed_Kaimkhan.
 ⚡ Fun fact: A fitness freak.
--->
