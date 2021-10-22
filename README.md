@@ -6,4 +6,4 @@
 - 💬 Ask me about Cpp-java-Flutter or any coding related stuff: 
 - 🔭 I’m looking for help to learn about new technologies.
 - 📫 How to reach me: insta- @naveed_kk. Linkedin- @Naveed_Kaimkhan.
-⚡ Fun fact: A fitness freak.
+-⚡ Fun fact: A fitness freak.
