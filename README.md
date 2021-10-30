@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 👯 I’m looking to collaborate on **Android and Ios development**
+- 👯 I’m looking to collaborate on **Android and Ios projects**
 
 - 🤝 I’m looking for help to **learning more and more about new technologies**
 
