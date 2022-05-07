@@ -57,6 +57,7 @@
 
 <br/>
 <br/>
+![snake gif](https://github.com/Naveed-kaimkhani/Naveed-kaimkhani/blob/output/github-contribution-grid-snake.gif)
 
 ## My Social Media Handles:
 <p align="left">
