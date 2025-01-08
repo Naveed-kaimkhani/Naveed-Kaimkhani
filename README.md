@@ -7,7 +7,7 @@
 ## 🙋‍♂️ About Me
 - 🔭 I’m currently working on **Cross platform App development**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m a **Flutter Developer**
 
 - 👯 I’m looking to collaborate on **Android and Ios projects**
 
